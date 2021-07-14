@@ -1,6 +1,6 @@
 Abstract expressionism:
 Abstract impressionism:
-Academic art:
+Academic art: 472
 Aestheticism:
 American Impressionism:
 American modernism:
@@ -10,9 +10,9 @@ Amsterdam Impressionism: 162
 Antwerp school:
 Art Deco:
 Art Nouveau:
-Arte Povera:
-Arts and Crafts movement:
-Ashcan School:
+Arte Povera: 33
+Arts and Crafts movement: 198
+Ashcan School: 184
 Barbizon school:
 Baroque:
 Bauhaus style:
@@ -22,23 +22,23 @@ Caravaggisti:
 Classicism:
 Cleveland School:
 Color field:
-Conceptual art:
+Conceptual art: 45
 Constructivism:
-Contemporary art:
+Contemporary art: 264
 Cubism:
 Dada:
 De Stijl:
 Der Blaue Reiter:
 Die Br�cke:
-Dutch and Flemish Renaissance painting:
+Dutch and Flemish Renaissance painting: 2
 Dutch Golden Age:
 Early renaissance:
 Expressionism:
 Fauvism:
 Florentine painting:
-Fluxus:
+Fluxus: 1
 Folk art:
-French Renaissance:
+French Renaissance: 10
 Futurism:
 Geometric abstraction:
 German Expressionism:
@@ -46,10 +46,10 @@ German Renaissance:
 Gothic art:
 Hague School:
 Harlem Renaissance:
-Heidelberg School:
-High Renaissance:
-Hudson River School:
-Hyperrealism:
+Heidelberg School: 95
+High Renaissance: 8
+Hudson River School: 4
+Hyperrealism: 22
 Impressionism:
 Italian Renaissance:
 Japonisme:
@@ -58,26 +58,26 @@ Land art:
 Les Nabis:
 Luminism:
 Magical Realism: 61
-Mannerism:
-Metaphysical art:
-Milanese School:
+Mannerism: 242
+Metaphysical art: 4
+Milanese School: 15
 Minimalism:
 Modern art:
 Modernism:
 Na�ve art:
-Naturalism:
-Nazarene movement:
+Naturalism: 14
+Nazarene movement: 0
 Neo-expressionism:
 Neo-Impressionism:
 Neo-romanticism:
 Neoclassicism:
-New Objectivity:
+New Objectivity: 15
 Nihonga:
 Northern Renaissance:
 Norwich School:
 Nouveau r�alisme:
 Op art:
-Outsider art:
+Outsider art: 14
 Paduan School:
 Pennsylvania Impressionism:
 Photorealism:
@@ -87,7 +87,7 @@ Postminimalism:
 Postmodernism:
 Pre-Raphaelite Brotherhood:
 Primitivism:
-Public art:
+Public art: 44
 Realism:
 Regionalism:
 Renaissance:
@@ -108,7 +108,7 @@ Sturm und Drang:
 Suprematism:
 Surrealism: 466
 Symbolism:
-Synthetism:
+Synthetism: 35
 Tonalism: 75
 Ukiyo-e:
 Utrecht Caravaggism:
